@@ -59,16 +59,16 @@ const projects2 = [
   },
   {
     images: [
-        '../../public/assets/Figma/Home Page.jpg',
-        '../../public/assets/Figma/Menu.jpg',
-        '../../public/assets/Figma/Rules - Text.jpg',
-        '../../public/assets/Figma/Rules - Tutorial.jpg'
+        '../../public/assets/Home Page.jpg',
+        '../../public/assets/Menu.jpg',
+        '../../public/assets/Rules - Text.jpg',
+        '../../public/assets/Rules - Tutorial.jpg'
     ]
   },
   {
     images: [
-        '../../public/assets/Figma/Profile Page.jpg',
-        '../../public/assets/Figma/Leaderboard.jpg',
+        '../../public/assets/Profile Page.jpg',
+        '../../public/assets/Leaderboard.jpg',
     ]
   },
   {
