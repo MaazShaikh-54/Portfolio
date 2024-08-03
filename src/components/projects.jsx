@@ -9,14 +9,14 @@ const projects = [
   },
   {
     images: [
-        '../public/assets/campsite home page.png',
-        '../public/assets/auth.png',
-        '../public/assets/cards.png',
+        '../../public/assets/campsite home page.png',
+        '../../public/assets/auth.png',
+        '../../public/assets/cards.png',
     ],
   },
   {
     images: [
-        '../public/assets/logo192.png',
+        '../../public/assets/logo192.png',
     ],
     description: 'Logo'
   },
@@ -39,7 +39,7 @@ const projects = [
   {
     icons: [
         {
-            src: '../public/assets/send.png',
+            src: '../../public/assets/send.png',
             link: 'https://campsitebooking.netlify.app/'
         },
         {
@@ -59,16 +59,16 @@ const projects2 = [
   },
   {
     images: [
-        '../public/assets/Figma/Home Page.jpg',
-        '../public/assets/Figma/Menu.jpg',
-        '../public/assets/Figma/Rules - Text.jpg',
-        '../public/assets/Figma/Rules - Tutorial.jpg'
+        '../../public/assets/Figma/Home Page.jpg',
+        '../../public/assets/Figma/Menu.jpg',
+        '../../public/assets/Figma/Rules - Text.jpg',
+        '../../public/assets/Figma/Rules - Tutorial.jpg'
     ]
   },
   {
     images: [
-        '../public/assets/Figma/Profile Page.jpg',
-        '../public/assets/Figma/Leaderboard.jpg',
+        '../../public/assets/Figma/Profile Page.jpg',
+        '../../public/assets/Figma/Leaderboard.jpg',
     ]
   },
   {
