@@ -55,7 +55,7 @@ const projects2 = [
     title: 'Space Rocket Game UI',
   },
   {
-    description: 'Engaging space rocket game design in Figma, showcasing advanced UI/UX design skills through interactive prototypes and captivating visuals. Detailed prototypes and wireframes depicting game mechanics and user interface interactions. Expertise in UI/UX design principles, creating visually appealing and user-friendly game interfaces. Cohesive and immersive user experience with innovative design elements and intuitive navigation.'
+    description: 'Designed a space rocket game UI in Figma featuring a dynamic home page with an intuitive menu for seamless navigation. The game includes a competitive leaderboard for players, two comprehensive tutorial pages—one in text and another with a video tutorial—ensuring accessible learning. Additionally, the player profile page offers a personalized gaming experience.'
   },
   {
     images: [
@@ -86,7 +86,7 @@ const projects2 = [
 export default function Projects(){
   return (
     <section>
-      <BentoGrid projects={projects} />
+      <BentoGrid projects={projects} /><br /><br /><br />
       <BentoGrid projects={projects2} />
     </section>
   );
