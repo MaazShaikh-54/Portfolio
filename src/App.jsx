@@ -94,12 +94,12 @@ function App() {
             <button onClick={handleHireMeClick} className="btn1">
               Hire Me
             </button>
-            <a href="../public/Resume.pdf" download="Resume.pdf">
+            <a href="../Resume.pdf" download="Resume.pdf">
               <button className="btn2">Resume</button>
             </a>
           </div>
           <div className="profile-img">
-            <img src="../public/Profile.jpg" alt="Image" height={250} />
+            <img src="../Profile.jpg" alt="Image" height={250} />
           </div>
         </section>
 

@@ -9,14 +9,14 @@ const projects = [
   },
   {
     images: [
-        '../../public/campsite home page.png',
-        '../../public/auth.png',
-        '../../public/cards.png',
+        '../campsite home page.png',
+        '../auth.png',
+        '../cards.png',
     ],
   },
   {
     images: [
-        '../../public/logo192.png',
+        './logo192.png',
     ],
     description: 'Logo'
   },
@@ -39,7 +39,7 @@ const projects = [
   {
     icons: [
         {
-            src: '../../public/send.png',
+            src: '../send.png',
             link: 'https://campsitebooking.netlify.app/'
         },
         {
@@ -59,16 +59,16 @@ const projects2 = [
   },
   {
     images: [
-        '../../public/Home Page.jpg',
-        '../../public/Menu.jpg',
-        '../../public/Rules - Text.jpg',
-        '../../public/Rules - Tutorial.jpg'
+        '../Home Page.jpg',
+        '../Menu.jpg',
+        '../Rules - Text.jpg',
+        '../Rules - Tutorial.jpg'
     ]
   },
   {
     images: [
-        '../../public/Profile Page.jpg',
-        '../../public/Leaderboard.jpg',
+        '../Profile Page.jpg',
+        '../Leaderboard.jpg',
     ]
   },
   {
