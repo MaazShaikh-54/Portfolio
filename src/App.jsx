@@ -94,7 +94,7 @@ function App() {
             <button onClick={handleHireMeClick} className="btn1">
               Hire Me
             </button>
-            <a href="../public/Resume.pdf" download="Resume.pdf">
+            <a href="../public/Resume Updated.pdf" download="Resume.pdf">
               <button className="btn2">Resume</button>
             </a>
           </div>
